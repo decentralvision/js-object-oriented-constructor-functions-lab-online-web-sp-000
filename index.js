@@ -14,7 +14,3 @@ function PickupLocation(address, city) {
   this.address = address
   this.city = city
 }
-
-
-+ Driver with `name`, `age`, and `experience` properties
-+ PickupLocation with `address` and `city` properties
